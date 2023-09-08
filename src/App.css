@@ -1,4 +1,5 @@
-.Weather {
+.Weather,
+.Creator {
   padding: 40px;
   margin: 20px;
   border: 1px solid coral;
